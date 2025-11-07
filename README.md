@@ -55,34 +55,3 @@
 **RTO Mesuré** : 4 minutes 30 secondes  
 **Couverture** : Routeurs, firewalls, serveurs, connectivité
 
----
-## 📹 Comment Voir les Démonstrations
-
-Les vidéos de démonstration sont disponibles dans le dossier `Demos/` :
-```bash
-
-/Demos/
-├── Bascule.BGP.FULL.AUTO.mp4
-├── Redondance-Bascule-Totale-des-serveurs-vers-site-de-secours.mp4
-└── Disaster.Recovery-Site.Paris-to-Site.Noisiel.mp4
----
-
-## 🛠️ Compétences Démontrées
-
-- **Architecture multi-datacenters** avec full-mesh
-- **Haute disponibilité** multi-niveaux (BGP, HSRP, clustering)
-- **Sécurité en profondeur** avec parcours de trafic contrôlé
-- **Tests et validation** en environnement de production
-
----
-
-## 📁 Contenu du Projet
-
-- 📊 Documentation technique complète
-- ⚙️ Configurations routeurs, switches, firewalls  
-- 🎯 Projet GNS3 de validation
-- 📸 Captures d'écran et schémas
-
----
-
-**🚀 Projet déployé en production - Expertise réseau enterprise validée**
