@@ -35,23 +35,24 @@
 ## 🎥 Démonstrations Vidéo
 
 ### 1. Basculement BGP Automatique
-[![Basculement BGP](https://img.shields.io/badge/🎥-Voir_la_démonstration-blue)](Demos/Bascule.BGP.FULL.AUTO.mp4)
+[📥 Télécharger la démonstration](Demos/Bascule.BGP.FULL.AUTO.mp4) - *Cliquez puis "Download raw"*
 **Scénario** : Coupure du routeur principal Paris-Bag  
 **Démonstration** : Basculement automatique vers le routeur secondaire Noisiel  
 **Protocoles** : BGP + HSRP  
 **Temps** : Basculement automatique sans intervention 4min30s
 
 ### 2. Redondance Serveurs  
-[![Redondance Serveurs](https://img.shields.io/badge/🎥-Voir_la_démonstration-green)](Demos/Redondance-Bascule-Totale-des-serveurs-vers-site-de-secours.mp4)
+[📥 Télécharger la démonstration](Demos/Redondance-Bascule-Totale-des-serveurs-vers-site-de-secours.mp4) - *Cliquez puis "Download raw"*
 **Scénario** : Basculement complet des serveurs vers le site de secours  
 **Démonstration** : Migration transparente des services  
 **Mécanisme** : HSRP + re-routage automatique  
 **Impact** : Aucune interruption de service réseau
 
 ### 3. Disaster Recovery Complet
-[![Disaster Recovery](https://img.shields.io/badge/🎥-Voir_la_démonstration-red)](Demos/Disaster.Recovery-Site.Paris-to-Site.Noisiel.mp4)
+[📥 Télécharger la démonstration](Demos/Disaster.Recovery-Site.Paris-to-Site.Noisiel.mp4) - *Cliquez puis "Download raw"*
 **Scénario** : Extinction totale du site Paris-Bag  
 **Démonstration** : Basculement complet vers Noisiel en 4min30  
 **RTO Mesuré** : 4 minutes 30 secondes  
 **Couverture** : Routeurs, firewalls, serveurs, connectivité
 
+*Note : Les vidéos doivent être téléchargées pour être visionnées*
