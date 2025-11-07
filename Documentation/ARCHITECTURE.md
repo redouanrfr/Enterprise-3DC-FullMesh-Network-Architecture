@@ -1,5 +1,10 @@
 # 📘 Documentation Technique - Infrastructure Multi-Sites Cisco
 
+## 📊 Diagramme d'Architecture
+
+![Diagramme Architecture 3 Sites](design.png)
+
+*Diagramme interactif : [Ouvrir dans diagrams.net](../Design-3sitesHA.xml)*
 ## 🏢 Vue d'ensemble du projet
 
 ### Objectif
