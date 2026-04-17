@@ -34,7 +34,10 @@
 - **BGP** : eBGP avec dual ISP + iBGP interne (AS 65001)
 - **HA** : HSRP triple + Clusters firewall (ASA & FortiGate)
 - **Sécurité** : Parcours contrôlé Internet → ASA → FortiGate → Serveurs
-
+  
+<p align="center">
+  <img src="Documentation/design.png" alt="Architecture Design">
+</p>
 ---
 
 ## ⚡ Résultats Validés
