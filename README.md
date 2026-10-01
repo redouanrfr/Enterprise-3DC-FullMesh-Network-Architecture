@@ -1,6 +1,6 @@
 # 🚀 Infrastructure 3DC Full-Mesh Haute Disponibilité
 
-[![Production](https://img.shields.io/badge/STATUS-EN%20PRODUCTION-00a550?style=for-the-badge)](https://en.wikipedia.org/wiki/Production_environment)
+[![Conception éprouvée en prod](https://img.shields.io/badge/STATUS-EN%20PRODUCTION-00a550?style=for-the-badge)](https://en.wikipedia.org/wiki/Production_environment)
 [![GNS3](https://img.shields.io/badge/Validé%20sur-GNS3-2a4d69?style=for-the-badge&logo=cisco)](https://www.gns3.com/)
 [![Full-Mesh](https://img.shields.io/badge/🏗️-Full--Mesh_Certified-FF6B35?style=for-the-badge)]()
 [![HA](https://img.shields.io/badge/⚡-HA_99.99%25-00D26A?style=for-the-badge)]()
