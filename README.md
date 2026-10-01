@@ -17,7 +17,7 @@
 [![STP](https://img.shields.io/badge/STP-Spanning_Tree-FF9800?style=flat-square)]()
 [![Multi-DC](https://img.shields.io/badge/Multi--DC-3_Sites-FF6D00?style=flat-square)]()
 
-**Infrastructure réseau full-mesh multi-datacenters déployée en production**
+**Architecture conçue et exploitée en production (2007-2022), reconstituée sous GNS3 avec tests de bascule mesurés.**
 
 ---
 
