@@ -23,7 +23,7 @@
 
 ## 🏗️ Architecture Déployée
 
-### **Sites en Production**
+### **Implantation des sites**
 - **Paris-Bag** : Site principal (Production)
 - **Noisiel** : Site de DR (Disaster Recovery)  
 - **PA6** : Site de backup
