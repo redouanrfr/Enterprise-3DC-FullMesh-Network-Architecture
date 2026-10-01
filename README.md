@@ -2,10 +2,8 @@
 
 ![Conception éprouvée en prod](https://img.shields.io/badge/CONCEPTION-%C3%89PROUV%C3%89E%20EN%20PROD%202007--2022-00a550?style=for-the-badge)
 ![Config de lab GNS3](https://img.shields.io/badge/CONFIG-LAB%20GNS3-2a4d69?style=for-the-badge&logo=cisco)
-[![GNS3](https://img.shields.io/badge/Validé%20sur-GNS3-2a4d69?style=for-the-badge&logo=cisco)](https://www.gns3.com/)
-[![Full-Mesh](https://img.shields.io/badge/🏗️-Full--Mesh_Certified-FF6B35?style=for-the-badge)]()
-[![HA](https://img.shields.io/badge/⚡-HA_99.99%25-00D26A?style=for-the-badge)]()
-[![DR](https://img.shields.io/badge/🌪️-Total_Disaster_Recovery-8B0000?style=for-the-badge)]()
+![DR testé](https://img.shields.io/badge/DR-EXTINCTION%20DE%20SITE%20TEST%C3%89E-8B0000?style=for-the-badge)
+![RTO lab](https://img.shields.io/badge/RTO%20LAB-4%20MIN%2030-FF6B35?style=for-the-badge)
 
 ## 🛠️ Technologies Employées
 
